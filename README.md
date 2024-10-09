@@ -1,4 +1,5 @@
 ## Hi there 👋
+I’m Kevin. I'm studying CS and Linguistics at Northeastern University.
 
 <!--
 **kshi-neu/kshi-neu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
