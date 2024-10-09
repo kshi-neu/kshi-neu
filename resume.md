@@ -1,4 +1,4 @@
-##Kevin Shi
+Kevin Shi
 
 Graduated 2024 from Ward Melville High School
 Currently at Northeastern University,
