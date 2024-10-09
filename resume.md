@@ -1,5 +1,8 @@
-Kevin Shi
+#Kevin Shi
 
+##Education:
 Graduated 2024 from Ward Melville High School
-Currently at Northeastern University,
-studying Computer Science and Linguistics
+
+**Northeastern University**
+BS Computer Science and Linguistics, ongoing
+2024 - 2028
