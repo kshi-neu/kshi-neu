@@ -1,6 +1,6 @@
-#Kevin Shi
+# Kevin Shi
 
-##Education:
+## Education:
 Graduated 2024 from Ward Melville High School
 
 **Northeastern University**
